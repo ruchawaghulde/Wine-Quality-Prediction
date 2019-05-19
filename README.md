@@ -6,9 +6,9 @@ Such a model can be used not only by the certification bodies but also by the wi
 ## Optimization Model
 The optimization model we have used is Stochastic Gradient Descent. 
 This algorithm tries to find the right weights by constantly updating them using the value of gradient, and returning the values that minimises the loss function. 
-Training: 
+### Training: 
 Model is trained using Stochastic Gradient Descent based on the important parameters like pH, alcohol, fixed acidity and volatile acidity.
-Validation: 
+### Validation: 
 For validation of our model, we collected the data of several good and bad quality wines from the internet. We fed the data into our quality equation (objective function) and got the predicted values for the quality of wine.
 
 ## Conclusion
