@@ -1,6 +1,6 @@
 # Wine Quality Prediction
 Wine Certification and assessment are essential elements in the wine industry that prevent adulteration and are important for quality assurance. Wine certification includes physiochemical tests like determination of pH, alcohol quantity, fixed and volatile acidity etc. We have a large dataset having the physiochemical tests (features) results and quality on the scale of 1 to 10 of wines.
-We aim to make a model to predict the wine quality based on the dataset by using Stochastic Gradient Descent Algorithm.
+We aim to make a model to predict the quality of red wine on a scale of 0–10 given a set of features as inputs by using Stochastic Gradient Descent Algorithm.
 Such a model can be used not only by the certification bodies but also by the wine producers to improve wine quality based on the physiochemical properties and by the consumers to predict the quality of wines.
 
 ## Optimization Model
